@@ -1,7 +1,6 @@
 # Receipt Processor Challenge
 This is my backend submission to complete fetch's [receipt processor challenge](https://github.com/fetch-rewards/receipt-processor-challenge).
 
-<br>
 
 ## 🚀 How to Build and Run (Dockerized)
 
@@ -19,7 +18,6 @@ This is my backend submission to complete fetch's [receipt processor challenge](
    - API Base URL: `http://localhost:3000`
    - API Docs: `http://localhost:3000/docs`
 
-<br>
 
 ## ⚙️ Why Node.js?
 
@@ -28,7 +26,6 @@ Node.js was chosen for its:
 - Fast development cycles and active community
 - My personal familiarity and proficiency with building scalable APIs using Express + TypeScript
 
-<br>
 
 ## 🧩 Key Features
 
